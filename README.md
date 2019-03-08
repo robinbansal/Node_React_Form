@@ -10,6 +10,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 npm install
 npm run dev
 ```
+
+### Instructions
+- Clone repository: `git clone https://github.com/robinbansal/React_form`
+
+- Navigate to the created folder: `cd client`
+
+- Install dependencies: `npm install`
+
+- Start the project `npm start`
+
 ### Completed Features
 
 - [ ] Sign up, login and logout.
